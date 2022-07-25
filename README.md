@@ -15,4 +15,16 @@
 한 번 달려봅시다.
 한 번 달려봅시다.
 한 번 달려봅시다.
-한 번 달려봅시다.
+한 번 달려봅시다
+
+python code
+git inint
+ 
+명령어들을 적어보겠습니다.
+
+```
+#this part is for code 
+print('hello world')
+
+
+```
