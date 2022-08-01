@@ -12,6 +12,5 @@ git inint
 ```
 #this part is for code 
 print('hello world')
-dfdfdfdfdfdf
-THIS IS ME
+
 ```
