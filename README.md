@@ -8,7 +8,7 @@ python code
 git inint
  
 명령어들을 적어보겠습니다.
-
+FGFGFG
 ```
 #this part is for code 
 print('hello world')
